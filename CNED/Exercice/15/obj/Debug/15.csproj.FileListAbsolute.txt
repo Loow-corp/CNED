@@ -1,0 +1,7 @@
+D:\Projet visual studio\CNED\Exercice\15\bin\Debug\15.exe.config
+D:\Projet visual studio\CNED\Exercice\15\bin\Debug\15.exe
+D:\Projet visual studio\CNED\Exercice\15\bin\Debug\15.pdb
+D:\Projet visual studio\CNED\Exercice\15\obj\Debug\15.csproj.AssemblyReference.cache
+D:\Projet visual studio\CNED\Exercice\15\obj\Debug\15.csproj.CoreCompileInputs.cache
+D:\Projet visual studio\CNED\Exercice\15\obj\Debug\15.exe
+D:\Projet visual studio\CNED\Exercice\15\obj\Debug\15.pdb

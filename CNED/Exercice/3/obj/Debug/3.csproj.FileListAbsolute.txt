@@ -1,0 +1,7 @@
+D:\Projet visual studio\CNED\Exercice\3\bin\Debug\3.exe.config
+D:\Projet visual studio\CNED\Exercice\3\bin\Debug\3.exe
+D:\Projet visual studio\CNED\Exercice\3\bin\Debug\3.pdb
+D:\Projet visual studio\CNED\Exercice\3\obj\Debug\3.csproj.AssemblyReference.cache
+D:\Projet visual studio\CNED\Exercice\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+D:\Projet visual studio\CNED\Exercice\3\obj\Debug\3.exe
+D:\Projet visual studio\CNED\Exercice\3\obj\Debug\3.pdb
