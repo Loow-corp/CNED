@@ -1,0 +1,7 @@
+D:\Projet visual studio\CNED\Exercice\EXEMPLES\bin\Debug\EXEMPLES.exe.config
+D:\Projet visual studio\CNED\Exercice\EXEMPLES\bin\Debug\EXEMPLES.exe
+D:\Projet visual studio\CNED\Exercice\EXEMPLES\bin\Debug\EXEMPLES.pdb
+D:\Projet visual studio\CNED\Exercice\EXEMPLES\obj\Debug\EXEMPLES.csproj.AssemblyReference.cache
+D:\Projet visual studio\CNED\Exercice\EXEMPLES\obj\Debug\EXEMPLES.csproj.CoreCompileInputs.cache
+D:\Projet visual studio\CNED\Exercice\EXEMPLES\obj\Debug\EXEMPLES.exe
+D:\Projet visual studio\CNED\Exercice\EXEMPLES\obj\Debug\EXEMPLES.pdb

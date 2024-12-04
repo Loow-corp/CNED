@@ -1,0 +1,6 @@
+D:\Projet visual studio\CNED\Exercice\21 switch\bin\Debug\21 switch.exe.config
+D:\Projet visual studio\CNED\Exercice\21 switch\bin\Debug\21 switch.exe
+D:\Projet visual studio\CNED\Exercice\21 switch\bin\Debug\21 switch.pdb
+D:\Projet visual studio\CNED\Exercice\21 switch\obj\Debug\21 switch.csproj.CoreCompileInputs.cache
+D:\Projet visual studio\CNED\Exercice\21 switch\obj\Debug\21 switch.exe
+D:\Projet visual studio\CNED\Exercice\21 switch\obj\Debug\21 switch.pdb

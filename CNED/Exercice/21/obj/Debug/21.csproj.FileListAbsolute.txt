@@ -1,0 +1,6 @@
+D:\Projet visual studio\CNED\Exercice\21\bin\Debug\21.exe.config
+D:\Projet visual studio\CNED\Exercice\21\bin\Debug\21.exe
+D:\Projet visual studio\CNED\Exercice\21\bin\Debug\21.pdb
+D:\Projet visual studio\CNED\Exercice\21\obj\Debug\21.csproj.CoreCompileInputs.cache
+D:\Projet visual studio\CNED\Exercice\21\obj\Debug\21.exe
+D:\Projet visual studio\CNED\Exercice\21\obj\Debug\21.pdb

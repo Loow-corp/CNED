@@ -1,0 +1,6 @@
+D:\Projet visual studio\CNED\Exercice\20\bin\Debug\20.exe.config
+D:\Projet visual studio\CNED\Exercice\20\bin\Debug\20.exe
+D:\Projet visual studio\CNED\Exercice\20\bin\Debug\20.pdb
+D:\Projet visual studio\CNED\Exercice\20\obj\Debug\20.csproj.CoreCompileInputs.cache
+D:\Projet visual studio\CNED\Exercice\20\obj\Debug\20.exe
+D:\Projet visual studio\CNED\Exercice\20\obj\Debug\20.pdb
